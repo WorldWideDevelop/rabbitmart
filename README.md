@@ -24,7 +24,7 @@ Mart is only available on mobile platforms, our job is to make the shopping expe
 ### Clone the Project
 
 ```bash
-$ git clone https://github.com/skittlesaur/rabbitmart
+$ git clone https://github.com/AdrianTan914/rabbitmart
 ```
 
 **Note:** the `master` branch is the current production build. `releases` contain latest deployment tests. `develop` contains all new features and build.
